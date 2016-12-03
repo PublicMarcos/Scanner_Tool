@@ -1,5 +1,7 @@
 ﻿# Scanner Tool
-
+<p align="center">
+  <img src="Screenshot.png">
+</p>
 
 ##Achtung
 Sie müssen den Source Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert. Außerdem kann dieses Programm nur mit TWAIN kompatible Scanner-Treiber genutzt werden, wobei heutzutage fast jeder Scanner-Treiber das ist.
