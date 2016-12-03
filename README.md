@@ -2,7 +2,7 @@
 
 
 ##Achtung
-Sie müssen den Soruce Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert. Außerdem kann dieses Programm nur mit TWAIN kompatible Scanner-Treiber genutzt werden, wobei heutzutage fast jeder Scanner-Treiber das ist.
+Sie müssen den Source Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert. Außerdem kann dieses Programm nur mit TWAIN kompatible Scanner-Treiber genutzt werden, wobei heutzutage fast jeder Scanner-Treiber das ist.
 
 ##Inhalt
 Hier finden Sie den Sourcecode für das Programm.
