@@ -8,6 +8,7 @@ Sie müssen den Soruce Code anpassen, um das Programm nutzen zu können. Die Ste
 Hier finden Sie den Sourcecode für das Programm.
 
 ##Automatische Udaptes
+Dieses Programm aktualisiert sich selbst bei jedem Start, ohne dass der User dafür eingreifen muss.
 
 ##Zweck
 Wenn es ums Scannen geht, dann kommen oft die Herstellerprogramme zum Einsatz. Doch diese sind oft sehr umständlich zu bedienen und bieten fast immer nicht das wesentliche.
